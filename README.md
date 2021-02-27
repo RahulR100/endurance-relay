@@ -1,4 +1,4 @@
-# resistance-relay
+# endurance-relay
 
 This is a relay implementation for [nostr](https://github.com/fiatjaf/nostr) based on [nodestr-relay](https://github.com/Dolu89/nodestr-relay).
 
